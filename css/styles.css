@@ -1,6 +1,20 @@
  body {
- background-image: linear-gradient(120deg,#f5f5f5, #fcfcfc );
+ background-image: linear-gradient(120deg,#ffffff, #6cf072 );
 }
 h1 {
-  color: bla;
+  color:rgb(0, 0, 0);
+  font-family :cursive;
+}
+h1.pr {
+  font-style: italic;
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+ 
+}
+p.pro{
+  color: aliceblue;
+}
+p.card-text{
+  color: aliceblue;
 }
