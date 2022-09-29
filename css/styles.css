@@ -25,4 +25,12 @@ p.card-text{
   margin: 0 auto; /* Added */
         float: none; /* Added */
         margin-bottom: 10px; /* Added */
+
+        /* <div class="container mt-3 p-4 d-flex justify-content-center">
+  
+  <button type="button" class=" btn btn-success" data-bs-toggle="collapse" data-bs-target="#demo">Simple collapsible</button>
+  <div id="demo" class="collapse">
+<h2>carry me giuhd</h2>
+  </div>
+</div> */
 }
