@@ -21,6 +21,9 @@ p.pro{
 p.card-text{
   color: aliceblue;
 }
+ .good {
+  max-width: 1000%;
+ }
 .card{
   margin: 0 auto; /* Added */
         float: none; /* Added */
